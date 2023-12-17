@@ -12,7 +12,7 @@ This repo contains the links to Team Agreement doc, System Selection doc, topolo
 - The CEO has emphasized the importance of a secure and efficient network infrastructure that enables seamless communication between the office and the home company's central server. Additionally, the company wants to implement measures to safeguard data, improve collaboration through file shares, ensure business continuity with a robust backup solution, and establish an IT onboarding policy.
 ## Links to the documents
 - [Team Agreement](https://docs.google.com/document/d/1usAlUzdkj-DSUMcTZY8vzHKFRInCFi6YcCNU5hMaTR0/edit?usp=sharing)
-- System Selection:
+- [System Selection](https://docs.google.com/document/d/1alUfCmO-qBqiFE1PLcgP6ahBMAEvXCUF3qXl6pq-kF8/edit?usp=sharing)
 - Topologies/visuals:
 - SOPs:
 - [Presentation slideshow](https://docs.google.com/presentation/d/1dNbxA-EuMBB72DUzhk15mHWGjMFbVPRAyRoQND0fu-0/edit?usp=sharing)
