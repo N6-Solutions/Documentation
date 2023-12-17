@@ -16,3 +16,5 @@ This repo contains the links to Team Agreement doc, System Selection doc, topolo
 - Topologies/visuals:
 - SOPs:
 - [Presentation slideshow](https://docs.google.com/presentation/d/1dNbxA-EuMBB72DUzhk15mHWGjMFbVPRAyRoQND0fu-0/edit?usp=sharing)
+## Project Management tool
+- [GitHub Kanban](https://github.com/orgs/N6-Solutions/projects/1)
