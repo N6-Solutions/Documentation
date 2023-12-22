@@ -4,7 +4,7 @@ This repo contains the links to Team Agreement doc, System Selection doc, topolo
 - Bryanna Fox
 - Joe
 - Juan Maldonado
-- Keving Hoang
+- Kevin Hoang
 - Malena Tomlin
 - Rodolfo Gonzalez
 ## Project Scenario
