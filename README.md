@@ -15,7 +15,7 @@ This repo contains the links to Team Agreement doc, System Selection doc, topolo
 - [System Selection](https://docs.google.com/document/d/1alUfCmO-qBqiFE1PLcgP6ahBMAEvXCUF3qXl6pq-kF8/edit?usp=sharing)
 - [N6-Workplan](https://docs.google.com/document/d/1aSliyZWlAQEhRg9GGIbUTD1porbtr4dG4lyRIsfA7n8/edit)
 - [Group Project Scope](https://docs.google.com/document/d/14UBVCUL1X0nvEUg7fdsOQ5QA0pH6t3GCIAWb_pURduY/edit)
-- Topologies/visuals
+- [Topologies/visuals](https://docs.google.com/document/d/1SWt4pthdXoQJVoIUGZsRapfWz0Bg0UO487LXgpkVuHs/edit?usp=sharing)
 - [SOPs](https://drive.google.com/drive/folders/17moj7z8h5GPdmkESnLrVZx_abdHmsdbl)
 - [Presentation slideshow](https://docs.google.com/presentation/d/1dNbxA-EuMBB72DUzhk15mHWGjMFbVPRAyRoQND0fu-0/edit?usp=sharing)
 ## Project Management tool
